@@ -39,7 +39,7 @@
     - ![4](https://user-images.githubusercontent.com/90564840/183247946-8355951f-1892-4a37-9863-b65cea46b178.PNG)
     
 4. keluar dari *folder* sekolah
-![5](https://user-images.githubusercontent.com/90564840/183247978-9501cf46-8cb4-4717-91ac-d2d1b01410af.PNG)
+- ![5](https://user-images.githubusercontent.com/90564840/183247978-9501cf46-8cb4-4717-91ac-d2d1b01410af.PNG)
 
 5. masuk kedalam *folder* `kerja`
     - buat *file* dengan nama `cv.txt`, yang mana hal tersebut akan memiliki teks seperti:
